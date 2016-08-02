@@ -8,9 +8,12 @@ body {
   background: black;
   color: green;
 }
+
 .cmd {
   border: none;
   outline: none;
+  background: black;
+  color: green;
 }
 
 .menu {
