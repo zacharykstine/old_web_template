@@ -1,11 +1,8 @@
-input.cmd {
+.cmd {
   border: none;
+  outline: none;
 }
 
-p.menu {
-  color: green;
-}
-
-p {
+.menu {
   color: green;
 }
